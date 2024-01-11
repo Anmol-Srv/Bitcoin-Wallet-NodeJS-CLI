@@ -55,6 +55,7 @@ npm install
   ```
 ## Testing the Project
 - A sample wallet named ```testWallet``` has been added to the wallets directory for testing purposes. This wallet includes a transaction, providing a practical example for testing the project's functionality.
+- Use the Bitcoin Testnet for testing. Testnet faucets can provide test bitcoins for your wallets.
 
 
 ## File Structure
@@ -63,10 +64,7 @@ npm install
 - `src/commands/list.js`: Lists all wallets.
 - `src/commands/balance.js`: Fetches the balance of a wallet.
 - `src/commands/transactions.js`: Retrieves transaction history.
-- `src/commands/generate.js`: Generates new addresses.
-
-## Testing
-Use the Bitcoin Testnet for testing. Testnet faucets can provide test bitcoins for your wallets.
+- `src/commands/generate.js`: Generates new unused addresses.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
