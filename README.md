@@ -19,7 +19,7 @@ Bitcoin Wallet CLI is a sophisticated Node.js command-line interface for managin
 ### Installation Steps
 Clone the repository and install dependencies:
 ```
-git clone [https://github.com/Anmol-Srv/Bitcoin-wallet-cli.git](https://github.com/Anmol-Srv/Bitcoin-Wallet-NodeJS-CLI/tree/main)
+git clone https://github.com/Anmol-Srv/Bitcoin-Wallet-NodeJS-CLI
 cd bitcoin-wallet-cli
 npm install
 ```
