@@ -7,7 +7,7 @@
     "@oclif/core": "^3",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^4",
-    "axios": "^1.6.5",
+    "axios": "^1.7.2",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
     "bitcoinjs-lib": "^6.1.5",
