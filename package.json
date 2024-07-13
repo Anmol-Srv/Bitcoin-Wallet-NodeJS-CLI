@@ -4,7 +4,7 @@
     "btcwallet": "./bin/run.js"
   },
   "dependencies": {
-    "@oclif/core": "^3",
+    "@oclif/core": "^4",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^4",
     "axios": "^1.6.5",
